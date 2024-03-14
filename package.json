@@ -1,0 +1,28 @@
+{
+  "name": "react-folder",
+  "version": "1.0.0",
+  "description": "This is namaste react",
+ 
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "( https://github.com/VishalSingh085/NamasteReact.git)"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Akshay",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+"dependencies": {
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0",
+  "reactdom": "^2.0.0"
+}
+}
